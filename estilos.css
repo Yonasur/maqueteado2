@@ -1,0 +1,199 @@
+.logo1 {
+  width: 320px;
+  height: 130px;
+  margin-left: 7%;
+  margin-top: 5px;
+  padding-top: 0px;
+  border-start-end-radius: 30px;
+  border-start-start-radius: 30px;
+  border: 5px solid;
+  border-color: #010e09;
+}
+
+.telefono {
+  width: 23px;
+}
+
+header {
+  background-image: url(./images/code-coding-computer-technology-thumbnail.jpg);
+  height: 145px;
+  width: 100%;
+}
+
+button {
+  margin-left: 73px;
+  width: 150px;
+  color: red;
+}
+
+.btn btn-warning {
+  border: solid;
+  border-color: orangered;
+}
+
+form {
+  width: 75%;
+  padding-left: 25%;
+  padding-top: 60px;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 70px;
+  color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 60px;
+}
+
+p {
+  text-align: center;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+aside {
+  background-color: #004883;
+  padding-bottom: 30px;
+}
+
+.form-label {
+  color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 17px;
+}
+
+.col-md-3 {
+  width: 332px;
+}
+
+.logo {
+  margin-inline-start: 200px;
+}
+
+.ee {
+  width: 25%;
+  margin-left: 20px;
+  height: 320px;
+  padding-top: 50px;
+}
+
+.ei {
+  margin-left: 620px;
+  padding-top: 450px;
+
+  height: 720px;
+  width: 25%;
+}
+.er {
+  background-color: #292f33;
+  padding-bottom: 150px;
+  height: 900px;
+}
+
+h2 {
+  text-align: center;
+  color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 180px;
+}
+
+.logo3 {
+  width: 40%;
+  margin-top: 120px;
+  height: 300px;
+  margin-right: 40px;
+}
+
+.logo4 {
+  width: 40%;
+  margin-top: 100px;
+  height: 300px;
+  margin-bottom: 120px;
+  margin-left: 20px;
+  margin-right: 150px;
+}
+
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 90px;
+  font-size: 50px;
+  padding: 20px 110px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.logos {
+  background-color: #221f1f;
+  padding-bottom: 120px;
+}
+
+.par {
+  color: #ffffff;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.google {
+  background-color: papayawhip;
+  text-align: center;
+}
+
+h4 {
+  font-size: 43px;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding: 30px;
+}
+
+h5 {
+  font-size: 35px;
+
+  font-family: "Times New Roman", Times, serif;
+
+  text-align: center;
+  padding: 30px;
+}
+
+.logo5 {
+  width: 500px;
+}
+
+.caja {
+  padding: 100px 80px;
+
+  justify-content: space-evenly;
+
+  margin-left: 20px;
+
+  display: flex;
+  width: 1290px;
+}
+
+h6 {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 10px;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  color: rgb(146, 47, 245);
+}
+
+.logo6 {
+  width: 170px;
+}
+
+.footer {
+  background-color: #010e09ab;
+  padding: 29px;
+  margin-bottom: 0px;
+}
+
+.footer1 {
+  background-color: #221f1f;
+  text-align: start;
+  padding-left: 20px;
+  
+  
+}
